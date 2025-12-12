@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* base font + subtle background */
+html,body,#root {
+  height: 100%;
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background: #F8FAFC;
+}
+
+/* small utility for hero image tilt and shadow */
+.hero-card {
+  box-shadow: 0 24px 40px rgba(2,6,23,0.06);
+}
