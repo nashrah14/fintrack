@@ -9,9 +9,8 @@ Track expenses, manage income, analyze spending patterns, and maintain a financi
 **Live App:** https://fintrack-ten-orcin.vercel.app/  
 **Backend API:** https://fintrack-backend-co60.onrender.com/
 </div>
----
 
-## 📊 Project Summary
+## Project Summary
 
 FinTrack is a full-stack application designed to demonstrate industry-level engineering skills including secure authentication, scalable backend architecture, cloud deployment, and modern UI/UX.
 
