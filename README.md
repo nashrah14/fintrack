@@ -1,6 +1,6 @@
 <div align="center">
 
-# **FinTrack – Personal Finance Tracker**
+# **FinTrack - Personal Finance Tracker**
 A modern full-stack finance management app built with **React, Node.js, Express, and MongoDB**.
 
 Track expenses, manage income, analyze spending patterns, and maintain a financially organized life with a clean, responsive UI and secure backend.
@@ -25,7 +25,7 @@ Built with a strong emphasis on clarity, maintainability, and production-readine
 
 ---
 
-## 🏅 Badges
+##  Badges
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-38B2AC)
@@ -38,7 +38,7 @@ Built with a strong emphasis on clarity, maintainability, and production-readine
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### 🔐 Authentication & User Management
 - Register, login, logout  
@@ -116,7 +116,7 @@ fintrack/
 
 ---
 
-## 💼 Why This Project Matters
+## -> Why This Project Matters
 
 This project demonstrates:
 
@@ -132,7 +132,7 @@ Perfect for showcasing technical ability to hiring managers evaluating software 
 
 ---
 
-## 📜 License
+##  License
 
 MIT License © 2025 Nashrah Fathima
 
