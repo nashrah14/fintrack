@@ -127,8 +127,6 @@ This project demonstrates:
 - API development & documentation  
 - Real-world engineering decision-making  
 
-Perfect for showcasing technical ability to hiring managers evaluating software development candidates.
-
 ---
 
 ##  License
