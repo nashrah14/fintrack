@@ -96,21 +96,27 @@ Built with a strong emphasis on clarity, maintainability, and production-readine
 | PUT | /transactions/:id | Update a transaction |
 | DELETE | /transactions/:id | Delete a transaction |
 
-### Project Structure
+## Project Structure
 
+```bash
 fintrack/
 │
-├── backend/ # Express API
-│ ├── routes/
-│ ├── models/
-│ ├── middleware/
-│ └── index.js
+├── backend/                 # Express REST API
+│   ├── config/              # Database connection
+│   ├── routes/              # Auth & transaction routes
+│   ├── models/              # Mongoose models (User, Transaction)
+│   ├── middleware/          # JWT authentication middleware
+│   └── index.js             # Backend entry point
 │
-└── frontend/ # React application
-├── src/
-├── components/
-├── pages/
-└── App.js
+└── frontend/                # React application
+    ├── src/
+    │   ├── assets/          # Images, icons, illustrations
+    │   ├── components/      # Navbar, cards, reusable UI
+    │   ├── pages/           # Home, Login, Register, Dashboard, Profile
+    │   ├── context/         # AuthContext for global auth state
+    │   └── App.js           # App routes and layout
+    │
+    └── public/              # Static files
 
 
 ---
