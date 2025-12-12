@@ -118,7 +118,7 @@ fintrack/
     │
     └── public/              # Static files
 
-
+```
 ---
 
 ## -> Why This Project Matters
